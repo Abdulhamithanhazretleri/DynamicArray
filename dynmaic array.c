@@ -8,7 +8,7 @@ struct Ogrenci {
 };
 
 int main() {
-    struct Ogrenci Liste[1]; // Maksimum 10 öğrenci için bir array oluşturuyoruz.
+    struct Ogrenci Liste[1]; 
     int i = 0; // İndeks
     struct Ogrenci *newArray;
     while (1) {
